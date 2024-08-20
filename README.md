@@ -31,5 +31,5 @@ These instructions will get you to setup the project, install sdk and add packag
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet core" alt="dotnet core" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://docs.automapper.org/en/stable/_static/logo.png" title="automapper" alt="automapper" width="40" height="10"/>&nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*1d5MAXPALi0itRne9lPfhg.png" title="automapper" alt="automapper" width="40" height="40"/>&nbsp;
 </div>
